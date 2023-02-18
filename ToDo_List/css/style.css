@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+
+#Header01 {
+    
+    border: double white 8px;
+    text-align: center;
+    padding: 20px;
+    color: white;
+    background-color: #e2b845;
+    border-radius: 1000px;
+    margin: 10px 10px;
+}
+
+#divAddArea{
+    border: dashed white 1px;
+    padding: 20px;
+    background-color: #e2b845;
+    border-radius: 30px;
+    margin: 15px 15px;
+    color: white;
+    
+}
+
+.itemInList{
+    margin: 20px 20px;
+    border-radius: 20px;
+    color: white;
+    padding: 20px;
+    background-color: #e2b845;
+
+}
+
+
+
+
